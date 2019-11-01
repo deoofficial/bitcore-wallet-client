@@ -31,7 +31,7 @@
     "bitcore-payment-protocol": "https://github.com/deoofficial/bitcore-payment-protocol.git",
     "browser-request": "^0.3.3",
     "json-stable-stringify": "^1.0.0",
-    "lodash": "^3.3.1",
+    "lodash": "^4.17.15",
     "preconditions": "^1.0.8",
     "request": "^2.53.0",
     "sjcl": "^1.0.2"
